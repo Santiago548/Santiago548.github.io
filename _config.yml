@@ -1,11 +1,11 @@
 # Site settings
-author: Dominic Barajas
-title: 
+author: Dominic
+title: Title
 header-img: img/home-bg.png
 email: dominicbarajas548@gmail.com
-copyright_name: Dominic Barajas
+copyright_name: Dominic
 description: > # this means to ignore newlines until "baseurl:"
-  
+  learning a new skill
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Santiago548
